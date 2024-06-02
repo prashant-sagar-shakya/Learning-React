@@ -1,7 +1,6 @@
-import "./App.css";
-
+import HiddenSearchBar from "./HiddenSearchBar";
 function App() {
-  return <div>Hello World!</div>;
+  return <HiddenSearchBar />;
 }
 
 export default App;
