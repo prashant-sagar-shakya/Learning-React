@@ -1,7 +1,8 @@
-import "./App.css";
+import Main from "./Main";
+import "./style.css";
 
-function App() {
-  return <div>Hello World!</div>;
-}
+const App = () => {
+  return <Main />;
+};
 
 export default App;
