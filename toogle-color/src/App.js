@@ -1,7 +1,6 @@
-import "./App.css";
-
+import ToggleButtonColor from "./ToggleButtonColor";
 function App() {
-  return <div>Hello World!</div>;
+  return <ToggleButtonColor />;
 }
 
 export default App;
