@@ -1,7 +1,6 @@
-import "./App.css";
-
+import Testimonials from "./Testimonials";
 function App() {
-  return <div>Hello World!</div>;
+  return <Testimonials />;
 }
 
 export default App;
